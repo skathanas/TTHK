@@ -1,0 +1,5 @@
+/Volumes/MAC/Jarmo/Projects/TTHK/API/API/API/bin/Debug/API.exe
+/Volumes/MAC/Jarmo/Projects/TTHK/API/API/API/bin/Debug/API.pdb
+/Volumes/MAC/Jarmo/Projects/TTHK/API/API/API/obj/x86/Debug/API.csproj.CoreCompileInputs.cache
+/Volumes/MAC/Jarmo/Projects/TTHK/API/API/API/obj/x86/Debug/API.exe
+/Volumes/MAC/Jarmo/Projects/TTHK/API/API/API/obj/x86/Debug/API.pdb
